@@ -1,6 +1,6 @@
 # Excel-Dashboard
  Excel with Interactive Dashboard  || Store Data Analysis Dashboard <br></br>
- Creating a dashboard in Excel involves data cleaning, processing, and analysis.<br>
+ Created a dashboard in Excel involves data cleaning, processing, and analysis.<br>
  
  🔸  Data cleansing identifies and corrects errors.It removes duplicates and irrelevant data.<br>
  🔸  Data preprocessing transforms raw data into a clean dataset.It involves checking for missing values, noisy data, and inconsistencies.<br></br>
